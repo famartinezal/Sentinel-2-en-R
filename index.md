@@ -1,16 +1,7 @@
 # Cargar Multiples Imágenes Sentinel-2 en R
 
-<img src="https://drive.google.com/open?id=1WSx_OT0313uJLz7qqmZ2bYB35DdZWgl0" />
 
-
-https://drive.google.com/open?id=1WSx_OT0313uJLz7qqmZ2bYB35DdZWgl0
-.. image:: ..espinal.png
- :alt: espinal.png
-  :align: center
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+![screenshot](https://imgur.com/a/CJWNAp3.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
