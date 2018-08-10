@@ -1,12 +1,14 @@
 # Cargar Multiples Imágenes Sentinel-2 en R
 
+![screenshot](https://imgur.com/a/ftKrsTy.png)
 
-![screenshot](https://imgur.com/a/CJWNAp3.png)
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+![texto cualquiera por si no carga la imagen](https://imgur.com/a/ftKrsTy.png)
+`
+
+
+``markdown
 Syntax highlighted code block
 
 # Header 1
