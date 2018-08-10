@@ -1,7 +1,7 @@
 # Cargar Multiples Imágenes Sentinel-2 en R
 
 
-![GitHub Logo](/espinal.png)
+![](espinal.png)
 
 
 Format: ![Alt Text](url)
