@@ -1,9 +1,9 @@
 # Cargar Multiples Imágenes Sentinel-2 en R
 
 
-![](espinal.png)
-
-
+.. image:: ../images/espinal.png
+ :alt: add-new-menú.png
+  :align: center
 Format: ![Alt Text](url)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
