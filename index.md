@@ -5,7 +5,11 @@
  <a href="https://ibb.co/jgzOwU"><img src="https://thumb.ibb.co/jgzOwU/ESPINAL_RED1.png" alt="ESPINAL_RED1" border="0"></a>
 ## Cargar paquetes
 
-
+```
+if(!require(raster)){install.packages('raster'); library(raster)} else {library(raster)}
+if(!require(rgdal)){install.packages('rgdal'); library(rgdal)} else {library(rgdal)}
+if(!require(gdalUtils)){install.packages('gdalUtils'); library(gdalUtils)} else {library(gdalUtils)}
+```
 
 
 <H2 align="center"><FONT FACE="modern" SIZE=5 COLOR="#1E8449  ">Cargar paquetes</FONT></H2>
