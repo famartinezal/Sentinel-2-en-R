@@ -1,5 +1,6 @@
 # Cargar Multiples Imágenes Sentinel-2 en R
-!<a href="https://ibb.co/jgzOwU"><img src="https://thumb.ibb.co/jgzOwU/ESPINAL_RED1.png" alt="ESPINAL_RED1" border="0"></a>
+
+<a href="https://ibb.co/jgzOwU"><img src="https://thumb.ibb.co/jgzOwU/ESPINAL_RED1.png" alt="ESPINAL_RED1" border="0"></a>
 
 
 
