@@ -21,7 +21,7 @@ convierte = function(dir){
     jp2=as.list(lista)# Convierte en una lista
     tif=lapply( jp2,FUN = batch_gdal_translate, dir, outsuffix = ".tif")}
 ```
-### _2. Función que convierte de jp2 a tiff_
+### _2. Función que lee tiff_
 ```
 lee_tiff = function(dir){
     listar= list.files(dir, full.names = T,pattern = "tif")# Lista los nombres del directorio
